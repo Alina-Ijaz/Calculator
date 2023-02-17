@@ -26,7 +26,7 @@
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 1px;
   padding: 0.5rem;
-  background: hsl(206, 19%, 61%);
+  background: hsl(206, 19%, 60%);
 }
 
 .calculator__key {
